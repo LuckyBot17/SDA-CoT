@@ -1,0 +1,470 @@
+[
+    {
+        "dataset_idx": 66,
+        "entropy": 1.4708084763221112,
+        "occurrence": {
+            "B": 4,
+            "A": 2,
+            "D": 2,
+            "C": 1,
+            "E": 1
+        },
+        "disagreement": 5
+    },
+    {
+        "dataset_idx": 624,
+        "entropy": 1.1682824501765625,
+        "occurrence": {
+            "A": 3,
+            "D": 5,
+            "E": 1,
+            "C": 1
+        },
+        "disagreement": 4
+    },
+    {
+        "dataset_idx": 651,
+        "entropy": 0.9404479886553263,
+        "occurrence": {
+            "A": 7,
+            "C": 1,
+            "D": 1,
+            "B": 1
+        },
+        "disagreement": 4
+    },
+    {
+        "dataset_idx": 1207,
+        "entropy": 1.2206072645530173,
+        "occurrence": {
+            "D": 5,
+            "A": 2,
+            "C": 2,
+            "B": 1
+        },
+        "disagreement": 4
+    },
+    {
+        "dataset_idx": 628,
+        "entropy": 1.1682824501765625,
+        "occurrence": {
+            "E": 5,
+            "D": 1,
+            "B": 3,
+            "C": 1
+        },
+        "disagreement": 4
+    },
+    {
+        "dataset_idx": 899,
+        "entropy": 0.9404479886553263,
+        "occurrence": {
+            "C": 7,
+            "A": 1,
+            "D": 1,
+            "B": 1
+        },
+        "disagreement": 4
+    },
+    {
+        "dataset_idx": 1206,
+        "entropy": 1.2206072645530175,
+        "occurrence": {
+            "B": 5,
+            "E": 1,
+            "A": 2,
+            "D": 2
+        },
+        "disagreement": 4
+    },
+    {
+        "dataset_idx": 489,
+        "entropy": 0.639031859650177,
+        "occurrence": {
+            "D": 8,
+            "A": 1,
+            "E": 1
+        },
+        "disagreement": 3
+    },
+    {
+        "dataset_idx": 627,
+        "entropy": 0.639031859650177,
+        "occurrence": {
+            "A": 1,
+            "D": 8,
+            "C": 1
+        },
+        "disagreement": 3
+    },
+    {
+        "dataset_idx": 1126,
+        "entropy": 0.8018185525433373,
+        "occurrence": {
+            "D": 7,
+            "A": 1,
+            "B": 2
+        },
+        "disagreement": 3
+    },
+    {
+        "dataset_idx": 1154,
+        "entropy": 0.639031859650177,
+        "occurrence": {
+            "D": 8,
+            "B": 1,
+            "A": 1
+        },
+        "disagreement": 3
+    },
+    {
+        "dataset_idx": 870,
+        "entropy": 0.8018185525433373,
+        "occurrence": {
+            "E": 7,
+            "D": 1,
+            "A": 2
+        },
+        "disagreement": 3
+    },
+    {
+        "dataset_idx": 672,
+        "entropy": 0.8018185525433373,
+        "occurrence": {
+            "D": 7,
+            "E": 1,
+            "A": 2
+        },
+        "disagreement": 3
+    },
+    {
+        "dataset_idx": 32,
+        "entropy": 0.639031859650177,
+        "occurrence": {
+            "E": 8,
+            "D": 1,
+            "A": 1
+        },
+        "disagreement": 3
+    },
+    {
+        "dataset_idx": 949,
+        "entropy": 0.639031859650177,
+        "occurrence": {
+            "A": 1,
+            "E": 1,
+            "C": 8
+        },
+        "disagreement": 3
+    },
+    {
+        "dataset_idx": 917,
+        "entropy": 0.9433483923290391,
+        "occurrence": {
+            "B": 5,
+            "C": 4,
+            "E": 1
+        },
+        "disagreement": 3
+    },
+    {
+        "dataset_idx": 470,
+        "entropy": 0.639031859650177,
+        "occurrence": {
+            "C": 8,
+            "B": 1,
+            "A": 1
+        },
+        "disagreement": 3
+    },
+    {
+        "dataset_idx": 300,
+        "entropy": 0.639031859650177,
+        "occurrence": {
+            "E": 8,
+            "B": 1,
+            "A": 1
+        },
+        "disagreement": 3
+    },
+    {
+        "dataset_idx": 900,
+        "entropy": 0.8979457248567797,
+        "occurrence": {
+            "C": 6,
+            "E": 3,
+            "D": 1
+        },
+        "disagreement": 3
+    },
+    {
+        "dataset_idx": 81,
+        "entropy": 0.8018185525433373,
+        "occurrence": {
+            "D": 7,
+            "C": 1,
+            "A": 2
+        },
+        "disagreement": 3
+    },
+    {
+        "dataset_idx": 980,
+        "entropy": 0.639031859650177,
+        "occurrence": {
+            "B": 8,
+            "D": 1,
+            "A": 1
+        },
+        "disagreement": 3
+    },
+    {
+        "dataset_idx": 975,
+        "entropy": 0.8018185525433372,
+        "occurrence": {
+            "B": 7,
+            "E": 2,
+            "A": 1
+        },
+        "disagreement": 3
+    },
+    {
+        "dataset_idx": 893,
+        "entropy": 0.3250829733914482,
+        "occurrence": {
+            "D": 9,
+            "C": 1
+        },
+        "disagreement": 2
+    },
+    {
+        "dataset_idx": 1019,
+        "entropy": 0.6730116670092565,
+        "occurrence": {
+            "C": 6,
+            "B": 4
+        },
+        "disagreement": 2
+    },
+    {
+        "dataset_idx": 746,
+        "entropy": 0.3250829733914482,
+        "occurrence": {
+            "D": 1,
+            "A": 9
+        },
+        "disagreement": 2
+    },
+    {
+        "dataset_idx": 385,
+        "entropy": 0.5004024235381879,
+        "occurrence": {
+            "C": 8,
+            "D": 2
+        },
+        "disagreement": 2
+    },
+    {
+        "dataset_idx": 831,
+        "entropy": 0.5004024235381879,
+        "occurrence": {
+            "C": 8,
+            "A": 2
+        },
+        "disagreement": 2
+    },
+    {
+        "dataset_idx": 1040,
+        "entropy": 0.3250829733914482,
+        "occurrence": {
+            "C": 9,
+            "B": 1
+        },
+        "disagreement": 2
+    },
+    {
+        "dataset_idx": 1074,
+        "entropy": 0.5004024235381879,
+        "occurrence": {
+            "A": 8,
+            "D": 2
+        },
+        "disagreement": 2
+    },
+    {
+        "dataset_idx": 1139,
+        "entropy": 0.3250829733914482,
+        "occurrence": {
+            "C": 9,
+            "A": 1
+        },
+        "disagreement": 2
+    },
+    {
+        "dataset_idx": 420,
+        "entropy": 0.5004024235381879,
+        "occurrence": {
+            "D": 8,
+            "A": 2
+        },
+        "disagreement": 2
+    },
+    {
+        "dataset_idx": 835,
+        "entropy": 0.3250829733914482,
+        "occurrence": {
+            "B": 9,
+            "A": 1
+        },
+        "disagreement": 2
+    },
+    {
+        "dataset_idx": 933,
+        "entropy": 0.6730116670092565,
+        "occurrence": {
+            "E": 6,
+            "A": 4
+        },
+        "disagreement": 2
+    },
+    {
+        "dataset_idx": 1132,
+        "entropy": 0.3250829733914482,
+        "occurrence": {
+            "A": 9,
+            "B": 1
+        },
+        "disagreement": 2
+    },
+    {
+        "dataset_idx": 986,
+        "entropy": 0.3250829733914482,
+        "occurrence": {
+            "B": 9,
+            "A": 1
+        },
+        "disagreement": 2
+    },
+    {
+        "dataset_idx": 200,
+        "entropy": 0.3250829733914482,
+        "occurrence": {
+            "E": 9,
+            "B": 1
+        },
+        "disagreement": 2
+    },
+    {
+        "dataset_idx": 164,
+        "entropy": 0.5004024235381879,
+        "occurrence": {
+            "C": 8,
+            "A": 2
+        },
+        "disagreement": 2
+    },
+    {
+        "dataset_idx": 730,
+        "entropy": 0.6730116670092565,
+        "occurrence": {
+            "C": 4,
+            "A": 6
+        },
+        "disagreement": 2
+    },
+    {
+        "dataset_idx": 991,
+        "entropy": 0.0,
+        "occurrence": {
+            "C": 10
+        },
+        "disagreement": 1
+    },
+    {
+        "dataset_idx": 1024,
+        "entropy": 0.0,
+        "occurrence": {
+            "B": 10
+        },
+        "disagreement": 1
+    },
+    {
+        "dataset_idx": 728,
+        "entropy": 0.0,
+        "occurrence": {
+            "A": 10
+        },
+        "disagreement": 1
+    },
+    {
+        "dataset_idx": 1216,
+        "entropy": 0.0,
+        "occurrence": {
+            "A": 10
+        },
+        "disagreement": 1
+    },
+    {
+        "dataset_idx": 314,
+        "entropy": 0.0,
+        "occurrence": {
+            "B": 10
+        },
+        "disagreement": 1
+    },
+    {
+        "dataset_idx": 1094,
+        "entropy": 0.0,
+        "occurrence": {
+            "D": 10
+        },
+        "disagreement": 1
+    },
+    {
+        "dataset_idx": 921,
+        "entropy": 0.0,
+        "occurrence": {
+            "C": 10
+        },
+        "disagreement": 1
+    },
+    {
+        "dataset_idx": 684,
+        "entropy": 0.0,
+        "occurrence": {
+            "A": 10
+        },
+        "disagreement": 1
+    },
+    {
+        "dataset_idx": 736,
+        "entropy": 0.0,
+        "occurrence": {
+            "B": 10
+        },
+        "disagreement": 1
+    },
+    {
+        "dataset_idx": 854,
+        "entropy": 0.0,
+        "occurrence": {
+            "C": 10
+        },
+        "disagreement": 1
+    },
+    {
+        "dataset_idx": 709,
+        "entropy": 0.0,
+        "occurrence": {
+            "B": 10
+        },
+        "disagreement": 1
+    },
+    {
+        "dataset_idx": 632,
+        "entropy": 0.0,
+        "occurrence": {
+            "D": 10
+        },
+        "disagreement": 1
+    }
+]
